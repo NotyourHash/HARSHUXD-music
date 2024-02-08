@@ -8,7 +8,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/NotyourHash/HARSHUXD-music"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="520" height="138.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/NotyourHash/HARSHUXD-music"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="520" height="100"/></a></p>
 
 <p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshdemon&show_icons=true&locale=en&layout=compact" alt="Harshdemon" /></p>
 
